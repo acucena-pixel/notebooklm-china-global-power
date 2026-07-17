@@ -1,17 +1,9 @@
-# 🇨🇳 A Ascensão da China como Potência Global
-
-## Caderno Temático desenvolvido com NotebookLM
-
-Projeto desenvolvido no Bootcamp DIO + Bradesco  
-Trilha: GenAI, Dados & Cybersegurança
-
----
+# 🇨🇳 A Ascensão da China como Potência Global 
+# Caderno feito com NotebookLM
 
 # Sobre o projeto
 
-Este projeto apresenta um caderno temático criado utilizando o NotebookLM como ferramenta de aprendizagem ativa.
 
-O objetivo foi explorar como a Inteligência Artificial pode auxiliar no processo de estudo, organização de informações, síntese de conteúdos e construção de conhecimento.
 
 O tema escolhido foi:
 
@@ -27,15 +19,13 @@ Durante o desenvolvimento deste projeto, busquei:
 
 - Utilizar IA como ferramenta de apoio ao aprendizado;
 - Testar técnicas de criação de prompts;
-- Desenvolver capacidade de análise e síntese de informações;
-- Organizar conhecimento utilizando fontes confiáveis;
-- Criar um material de revisão reutilizável.
-
----
+- Praticar aprendizagem ativa.
+- Organizar conhecimento utilizando fontes confiáveis organizadas por mim;
+- Facilitar o aprendizado de um tema complexo.
 
 # Curadoria das fontes
 
-Para construir o caderno temático, foram selecionadas fontes abertas e confiáveis.
+Para construir o caderno, foram selecionadas fontes confiáveis que envolvem notórios profissionais em ciência política e economia, como Elias Jabbour.
 
 ## Fonte 1 — World Bank
 
@@ -104,7 +94,7 @@ O NotebookLM foi utilizado para:
 - Criar conexões entre diferentes fontes;
 - Gerar perguntas de revisão;
 - Identificar conceitos importantes;
-- Organizar informações para estudo.
+- Transformar textos e vídeos em conteúdos gráficos de apresentação.
 
 ---
 
@@ -189,16 +179,6 @@ O estudo foi dividido em categorias:
 - Tecnologia;
 - Relações internacionais;
 - Desafios futuros.
-
----
-
-#  Miniguia de Estudo
-
-Para essa parte específica da DIO, o **Miniguia de Estudo** precisa ser o "produto final" do seu NotebookLM. Ele deve mostrar que você pegou as informações das fontes, processou com IA e transformou em um material de aprendizagem reutilizável.
-
-Eu faria assim no README:
-
----
 
 # Miniguia de Estudo — A Ascensão da China como Potência Global
 
@@ -424,4 +404,4 @@ Faça uma entrevista comigo sobre este tema. Faça uma pergunta por vez, avalie 
 
 # Resultado do aprendizado
 
-Após a construção deste caderno temático, foi possível compreender como a Inteligência Artificial pode ser utilizada não apenas para gerar respostas, mas como uma ferramenta de organização, análise crítica e construção de conhecimento.
+Após a construção deste caderno utilizando NotebookLM, foi possível perceber o salto qualitativo das respostas após a aplicação das técnicas aprendidas no bootcamp, principalmente as de engenharia de prompt.
