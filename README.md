@@ -90,7 +90,7 @@ https://www.youtube.com/watch?v=NVJcIQ9RYWU&t=12s
 
 O NotebookLM foi utilizado para:
 
-- Resumir documentos extensos;
+- Aplicar métodos educacionais como o "Princípio de Pareto" por meio de prompts;
 - Criar conexões entre diferentes fontes;
 - Gerar perguntas de revisão;
 - Identificar conceitos importantes;
@@ -100,7 +100,7 @@ O NotebookLM foi utilizado para:
 
 # Engenharia de Prompts
 
-Durante o projeto, diferentes prompts foram testados para melhorar a qualidade das respostas.
+Durante o projeto, diferentes comandos foram testados para melhorar a qualidade das respostas.
 
 ---
 
@@ -112,11 +112,11 @@ Durante o projeto, diferentes prompts foram testados para melhorar a qualidade d
 
 ### Resultado:
 
-A resposta apresentou uma visão geral do tema, porém sem aprofundamento.
+A resposta apresentou uma visão geral do tema, porém sem explicações profundas e organizadas.
 
 ### Aprendizado:
 
-Foi necessário fornecer mais contexto e critérios de análise.
+A técnica da divisão de tarefas fez com que a IA aprofundasse diferentes assuntos de forma organizada.
 
 ---
 
