@@ -85,10 +85,14 @@ https://www.imf.org/en/Countries/CHN
 
 ---
 
-## Fonte 5 — Livro "On China" (Henry Kissinger)
+## Fonte 5 — Aparições de profissionais como José Kobori e Elias Jabbour em Podcasts.
 
 Tema:
 História diplomática e estratégia chinesa.
+
+Link:
+
+https://www.youtube.com/watch?v=NVJcIQ9RYWU&t=12s
 
 ---
 
