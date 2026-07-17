@@ -288,7 +288,7 @@ O objetivo é fortalecer relações econômicas e aumentar a influência chinesa
 
 ---
 
-# ⚔️ 6. Desafios da China como Potência Global
+# 6. Desafios da China como Potência Global
 
 Apesar do crescimento, a China enfrenta desafios:
 
@@ -425,10 +425,3 @@ Faça uma entrevista comigo sobre este tema. Faça uma pergunta por vez, avalie 
 # Resultado do aprendizado
 
 Após a construção deste caderno temático, foi possível compreender como a Inteligência Artificial pode ser utilizada não apenas para gerar respostas, mas como uma ferramenta de organização, análise crítica e construção de conhecimento.
----
-
-# Autor
-
-Pedro Araújo
-
-Projeto desenvolvido no Bootcamp DIO + Bradesco
