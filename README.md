@@ -78,7 +78,7 @@ https://www.imf.org/en/Countries/CHN
 ## Fonte 5 — Aparições de profissionais como José Kobori e Elias Jabbour em Podcasts.
 
 Tema:
-História diplomática e estratégia chinesa.
+Estratégia chinesa.
 
 Link:
 
@@ -116,7 +116,7 @@ A resposta apresentou uma visão geral do tema, porém sem explicações profund
 
 ### Aprendizado:
 
-A técnica da divisão de tarefas fez com que a IA aprofundasse diferentes assuntos de forma organizada.
+Um modelo de comando melhor era necessário.
 
 ---
 
@@ -134,7 +134,7 @@ A técnica da divisão de tarefas fez com que a IA aprofundasse diferentes assun
 
 ### Resultado:
 
-A resposta apresentou uma estrutura mais organizada e conectou diferentes fatores.
+A técnica da divisão de tarefas fez com que a IA aprofundasse diferentes assuntos de forma organizadas.
 
 ---
 
@@ -146,7 +146,7 @@ A resposta apresentou uma estrutura mais organizada e conectou diferentes fatore
 
 ### Resultado:
 
-Permitiu observar diferentes perspectivas e evitar uma visão unilateral.
+Permitiu observar diferentes perspectivas e evitar viés.
 
 ---
 
@@ -160,9 +160,7 @@ Os primeiros resultados apresentavam informações superficiais.
 
 Solução:
 
-Foram adicionados critérios específicos aos prompts.
-
----
+Adicionei o contexto: "Você é um professor universitário" e a IA se aprofundou como em uma aula de graduação.
 
 ## Falta de organização
 
@@ -172,7 +170,7 @@ As respostas misturavam diversos assuntos.
 
 Solução:
 
-O estudo foi dividido em categorias:
+Mais uma vez o estudo foi dividido em tarefas:
 
 - História;
 - Economia;
